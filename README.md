@@ -1,4 +1,6 @@
-HelloDex Bot 统一Web3交易、一起建设Web3未来
+HelloDex Telegram Bot
+
+统一Web3交易、一起建设Web3未来
 
 支持挂单止盈止损、AI数据监控、提供APP、网页、TG Bot。
 
